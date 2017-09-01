@@ -1,0 +1,34 @@
+TABLE.CALC {
+	   border:solid black 2px;
+	   background-color:#ebb530;
+}
+
+#navbar {
+	position:absolute;
+	top:250px;
+	left:10px;
+	width:172px;
+	padding:10px;
+	background-color:#ebb530;
+	border:1px solid black;
+	line-height:17px;
+
+/* Here is the ugly brilliant hack that protects IE5/Win from its own
+stupidity.  Thanks to Tantek Celik for the hack and to Eric Costello
+for publicizing it.  IE5/Win incorrectly parses the "\"}"" value,
+prematurely closing the style declaration. The incorrect IE5/Win value
+is above, while the correct value is below. See
+http://glish.com/css/hacks.asp for details. */
+
+	voice-family: "\"}\"";
+	voice-family:inherit;
+	width:150px;
+	}
+
+/* I've heard this called the "be nice to Opera 5" rule. Basically, it
+feeds correct length values to user agents that exhibit the parsing
+error exploited above yet get the CSS box model right and understand
+the CSS2 parent-child selector. ALWAYS include a "be nice to Opera 5"
+rule every time you use the Tantek Celik hack (above). */
+
+body>#navbar {width:150px;}
