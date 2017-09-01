@@ -21,4 +21,6 @@ wget \
     --cut-dirs=1 \
     --page-requisites \
     'http://home.earthlink.net/~ellozy/'
+
+dos2unix *
 ```
