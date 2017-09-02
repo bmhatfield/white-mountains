@@ -4,7 +4,7 @@ Mirror of Ellozy's White Mountain Peakbagging Site
 ### Explanation
 For those working on peakbagging the White Mountain 4000'ers, Mohamed Ellozy's site is a treasure. It's much faster to get a quick synopsis of time and distance from his site than any guidebook - especially when multiple trails are involved.
 
-Unfortunately, it's hosted on home.earthlink.net, which could disappear any day. Even while it stays up, it's subject to request limits that bring it offline temporarily for days at a time at the end of the month.
+Unfortunately, it's hosted on `home.earthlink.net`, which could disappear any day. Even while it stays up, it's subject to request limits that bring it offline temporarily for days at a time at the end of the month.
 
 Rather than allow this to disappear from the internet, I've mirrored it here.
 
