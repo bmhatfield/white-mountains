@@ -19,10 +19,13 @@ wget \
     --no-parent \
     --no-host-directories \
     --convert-links \
-    --adjust-extension \
     --cut-dirs=1 \
     --page-requisites \
     'http://home.earthlink.net/~ellozy/'
 
 dos2unix *
 ```
+
+
+### Notes:
+Previously used `--adjust-extension` however this was incorrectly modifying CSS links
