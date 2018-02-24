@@ -21,6 +21,7 @@ wget \
     --convert-links \
     --cut-dirs=1 \
     --page-requisites \
+    --no-if-modified-since \
     'http://home.earthlink.net/~ellozy/'
 
 dos2unix *
