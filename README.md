@@ -1,5 +1,5 @@
 # white-mountains
-Mirror of Ellozy's White Mountain Peakbagging Site
+Mirror of Ellozy's White Mountain Peakbagging Site (_Last Updated: 3/3/2019_)
 
 ### Explanation
 For those working on peakbagging the White Mountain 4000'ers, Mohamed Ellozy's site is a treasure. It's much faster to get a quick synopsis of time and distance from his site than any guidebook - especially when multiple trails are involved.
